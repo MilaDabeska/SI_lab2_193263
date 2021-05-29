@@ -2,7 +2,7 @@
 
 ## Мила Дабеска, 193263
 
-## Control Flow Graph
+### 1. Control Flow Graph
 
 
 
